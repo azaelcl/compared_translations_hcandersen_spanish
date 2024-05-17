@@ -31,8 +31,10 @@ This is a desktop application for comparing two Spanish text documents (in `.doc
 
 #### Example:
 
-![image](https://github.com/azaelcl/compared_translations_hcandersen_spanish/assets/8887911/9615c771-8b2b-425d-b3fb-1a8e774f88a3)
+![image](https://github.com/azaelcl/compared_translations_hcandersen_spanish/assets/8887911/8579ba74-d997-4d30-a99a-ad3062867a89)
+
 ![image](https://github.com/azaelcl/compared_translations_hcandersen_spanish/assets/8887911/6a0b42ee-a1f4-4d00-93e4-d68aa4f7963c)
+
 ![image](https://github.com/azaelcl/compared_translations_hcandersen_spanish/assets/8887911/d0f6d055-dc3c-4bb5-a4c6-0fc2a27edfce)
 
 This project is useful for linguistic analysis, literary comparison, and any other application where understanding commonalities in texts is important.
