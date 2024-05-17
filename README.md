@@ -1,9 +1,5 @@
 # compared_translations_hcandersen_spanish
 
-Certainly! Here's a description for your project:
-
----
-
 ### Text Comparison Tool
 
 This is a desktop application for comparing two Spanish text documents (in `.docx` format). The application allows users to load and analyze the texts, and visualize the most frequently occurring words that are either nouns or adjectives. The analysis excludes conjunctions, prepositions, adverbs, and verbs.
@@ -43,21 +39,5 @@ This project is useful for linguistic analysis, literary comparison, and any oth
 
 Feel free to contribute by opening issues or submitting pull requests.
 
----
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Acknowledgments
-Special thanks to the [NLTK](https://www.nltk.org/) and [Matplotlib](https://matplotlib.org/) teams for their excellent tools.
-
----
-
 ### Contact
 For any questions or suggestions, feel free to open an issue or contact me directly.
-
----
-
-Feel free to modify the description as needed to better suit your project and style.
